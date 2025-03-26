@@ -1,4 +1,4 @@
-# Arabic-forced-Tashkeel-Harakat
+# Arabic-forced-Tashkeel
 A quick and dirty FontForge Python script that combines each حرف with each حركة into a new single Glyph.
 
 Useful for legacy softwares that do not render Harakat correctly.
